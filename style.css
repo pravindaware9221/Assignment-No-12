@@ -1,0 +1,14 @@
+.h1{
+    color: rgb(9, 208, 142);
+    font-size: 40px;
+    background-color: rgb(185, 243, 243);
+}
+
+.h2{
+    background-color: black;
+}
+
+#h3{
+    color: red;
+    font-size: 35px;
+}
